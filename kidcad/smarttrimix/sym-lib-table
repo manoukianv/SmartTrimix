@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name X9C102PIZ)(type Legacy)(uri ${KIPRJMOD}/../lib/X9C102PIZ/X9C102PIZ.lib)(options "")(descr ""))
+  (lib (name smarttrimix-rescue)(type Legacy)(uri ${KIPRJMOD}/smarttrimix-rescue.lib)(options "")(descr ""))
+)

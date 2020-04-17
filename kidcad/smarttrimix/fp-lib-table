@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name X9C102PIZ)(type Legacy)(uri ${KIPRJMOD}/../lib/X9C102PIZ/X9C102PIZ.mod)(options "")(descr ""))
+  (lib (name MP1584EN)(type KiCad)(uri ${KIPRJMOD}/../lib/MP1584EN)(options "")(descr ""))
+  (lib (name ArduinoNano)(type KiCad)(uri ${KIPRJMOD}/../lib/ArduinoNano)(options "")(descr ""))
+)
